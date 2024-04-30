@@ -1,0 +1,597 @@
+Desired fortune opposed by enemies.
+Relief from stigma opposed by rivals.
+Desired liberty opposed by suspicion.
+A strike is threatened by poverty.
+Desired health opposed by enemies.
+Relief from habit opposed by friends.
+A strike is threatened by insult.
+Desired liberty opposed by rivals.
+A mutiny is threatened by enemies.
+A race war is threatened by rivals.
+Relief from stigma opposed by friends.
+Desired power opposed by rivals.
+Relief from habit opposed by rivals.
+A feud is threatened by enemies.
+A boycott is threatened by rivals.
+Desired fortune opposed by friends.
+Relief from stigma opposed by enemies.
+A feud is threatened by rivals.
+A mutiny is threatened by poverty.
+Desired liberty opposed by distance.
+Relief from stigma opposed by poverty.
+A revolution is threatened by rivals.
+A mutiny is threatened by insult.
+Desired power opposed by enemies.
+A race war is threatened by insult.
+Relief from pursuit opposed by rivals.
+Desired fortune opposed by distance.
+A boycott is threatened by insult.
+Relief from stigma opposed by distance.
+Desired health opposed by rivals.
+Relief from pursuit opposed by friends. 
+A feud is threatened by poverty
+Desired power opposed by suspicion.
+A mutiny is threatened by rivals. Relief from injury opposed by rivals.
+A boycott is threatened by enemies.
+Desired position opposed by rivals.
+A race war is threatened by poverty.
+Desired fortune opposed by suspicion.
+Relief from sickness opposed by rivals.
+A feud is threatened by oppression.
+Desired liberty opposed by friends.
+Relief from sickness opposed by enemies.
+A feud is threatened by ignorance.
+Desired fortune opposed by rivals.
+Relief from habit opposed by poverty.
+A boycott is threatened by poverty.
+A race war is threatened by enemies.
+Desired power opposed by friends.
+Relief from stigma opposed by suspicion.
+Desired liberty opposed by enemies.
+Relief from sickness opposed by poverty.
+A feud is threatened by superstition.
+A revolution is threatened by poverty.
+A boycott is threatened by ignorance.
+A mutiny is threatened by superstition.
+Desired position opposed by enemies.
+Relief from sickness opposed by friends.
+A mutiny is threatened by ignorance.
+A revolution is threatened by insult.
+Relief from suit opposed by poverty.
+Desired power opposed by distance.
+A revolution is threatened by enemies.
+Desired position opposed by distance. 
+A boycott is threatened by superstition.
+Desired position opposed by suspicion.
+Relief from pursuit opposed by suspicion.
+A mutiny is threatened by persecution.
+A race war is threatened by ignorance.
+Relief from oppression opposed by rivals.
+Desired information opposed by friends.
+Desired fame opposed by rivals.
+A feud is threatened by insult.
+Desired health opposed by friends.
+A strike is threatened by enemies.
+Desired fame opposed by distance.
+A feud is threatened by persecution.
+Desired health opposed by distance.
+A mutiny is threatened by oppression.
+Desired fame opposed by suspicion.
+A strike is threatened by rivals.
+Desired fame opposed by enemies.
+A strike is threatened by oppresion.
+Desired fame opposed by friends.
+A strike is threatened by ignorance.
+A rebellion is threatened by rivals.
+A feud is threatened by fatal ambition.
+A race war is threatened by oppression.
+Desired health opposed by suspicion.
+A strike is threatened by persecution.
+Desired information opposed by rivals.
+A family revolt is threatened by insult.
+A strike is threatened by fatal ambition.
+A family revolt is threatened by poverty.
+Desired approbation opposed by rivals.
+A rebellion is threatened by insult.
+Desired fame opposed by danger to life. 
+A rebellion is threatened by poverty.
+A family revolt is threatened by rivals.
+Desired position opposed by friends.
+Desired power opposed by danger to life.
+Relief from prosecution opposed by rivals.
+A rebellion is threatened by superstition.
+Desired power opposed by legal procedure.
+Relief from oppression opposed by enemies.
+Desired liberty opposed by danger to life.
+Relief by pursuit opposed by enemies.
+A race war is threatened by fatal ambition.
+Desired liberty opposed by legal procedure.
+Relief from oppression opposed by friends.
+A rebellion is threatened by ignorance.
+Relief from pursuit opposed by distance.
+Desired liberty opposed by duty to country.
+A family revolt is threatened by enemies.
+A strike is threatened by superstition.
+Desired fame opposed by lack of money.
+A rebellion is threatened by oppression.
+Relief from sickness opposed by distance.
+Desired fortune opposed by lack of money.
+Relief from sickness opposed by suspicion.
+Relief from habit opposed by distance.
+A race war is threatened by persecution.
+A boycott is threatened by oppression.
+Desired information opposed by enemies.
+Desired approbation opposed by suspicion.
+Relief from injury opposed by friends.
+A mutiny is threatened by fatal ambition.
+A battle of sexes is threatened by insult.
+A revolution is threatened by persecution.
+Relief from oppression opposed by poverty. 
+Desired liberty opposed by lack of money.
+A race war is threatened by superstition.
+A battle of sexes is threatened by rivals.
+A boycott is threatened by persecution.
+Relief from oppression opposed by distance.
+Desired power opposed by duty to country.
+Relief from oppression opposed by suspicion.
+Desired information opposed by distance.
+Relief from imprisonment opposed by rivals.
+Desired liberty opposed by duty to religion.
+A rebellion is threatened by persecution.
+A family revolt is threatened by ignorance.
+Desired fortune opposed by danger to life.
+Relief from habit opposed by suspicion.
+A rebellion is threatened by loss of liberty.
+Desired health opposed by danger to life.
+Relief from imprisonment opposed by enemies.
+A rebellion is threatened by enemies.
+Desired power opposed by lack of money.
+A strike is threatened by duty to country.
+A rebellion is threatened by fatal ambition.
+Relief from habit opposed by enemies.
+A feud is threatened by duty to country.
+Desired power epposed by false accusation.
+Relief from injury opposed by suspicion.
+A strike is threatened by loss of liberty.
+A family revolt is threatened by superstition.
+A rebellion is threatened by duty to country.
+Desired fortune opposed by legal procedure.
+Relief from imprisonment opposed by friends.
+Desired liberty opposed by mental weakness.
+A boycott is threatened by fatal ambition. A mutiny is threatened by duty to country. 
+A feud is threatened by duty to loved ones.
+A battle of sexes is threatened by poverty.
+Desired power opposed by duty to religion.
+Relief from injury opposed by poverty.
+A mutiny is threatened by loss of liberty.
+A race war is threatened by physical suffering.
+Relief from imprisonment opposed by distance.
+Desired position opposed by lack of money.
+Desired fame opposed by duty to religion.
+Relief from injury opposed by distance.
+A revolution is threatened by oppression.
+A religious uprising is threatened by insult.
+Desired home or refuge opposed by friends.
+Relief from persecution by rivals.
+Desired accomplishment opposed by enemies.
+Relief from persecution opposed by enemies.
+Desired approbation opposed by distance. 
+Relief from persecution opposed by poverty.
+A boycott is threatened by duty to country.
+Desired home or refuge opposed by suspicion.
+A revolution is threatened by ignorance.
+Desired accomplishment opposed by rivals.
+A battle of sexes is threatened by enemies.
+Desired approbation opposed by friends.
+Relief from injury opposed by enemies.
+Desired home or refuge opposed by enemies.
+Relief from persecution opposed by distance.
+A feud is threatened by duty to religion.
+Desired home or refuge opposed by distance. 
+Relief from prosecution opposed by enemies.
+Desired health is opposed by lack of money.
+Relief from injury opposed by danger to life.
+A feud is threatened by unjust accusation.
+Relief from stigma opposed by danger to life.
+A feud is threatened by physical suffering.
+A revolution is threatened by superstition.
+Desired accomplishment is opposed by distance.
+A boycott is threatened by mental derangement.
+Desired liberty is opposed by false accusation.
+Relief from prosecution opposed by friends.
+Desired power opposed by mental weakness.
+Relief from prosecution opposed by poverty.
+A mutiny is threatened by mental derangement.
+Desired position opposed by danger to life.
+Relief from persecution opposed by suspicion.
+A mutiny is threatened by duty to religion.
+Desired power opposed by physical weakness.
+A boycott is threatened by loss of liberty.
+A mutiny is threatened by unjust accusation.
+Desired fortune opposed by duty to country.
+Relief from pursuit opposed by danger to life.
+A revolution is threatened by duty to country.
+Desired fortune opposed by duty to religion.
+Relief from stigma opposed by legal procedure.
+Desired liberty opposed by lack of information.
+Desired fortune opposed by inclement weather.
+Relief from habit opposed by danger to life.
+Desired fortune opposed by mental incapacity.
+A boycott is threatened by duty to religion.
+Desired power opposed by lack of influence.
+A boycott is threatened by physical suffering.
+Desired fortune opposed by false accusation. 
+A mutiny is threatened by duty to loved ones.
+Desired fortune opposed by lack of information.
+A battle of sexes is threatened by ignorance.
+Desired liberty opposed by inclement weather.
+Relief from sickness opposed by danger to life.
+Desired fortune opposed by duty to loved ones.
+Relief from imprisonment opposed by suspicion.
+A race war is threatened by loss of liberty.
+Desired power opposed by lack of facilities.
+A race war is threatened by duty to country.
+Desired power opposed by inclement weather.
+A boycott is threatened by unjust accusation.
+Desired position opposed by inclement weather.
+Desired health opposed by legal procedure.
+Relief from imprisonment opposed by poverty.
+A feud is threatened by mental derangement.
+Desired fortune opposed by lack of influence.
+Relief from sickness opposed by legal procedure.
+Desired liberty opposed by lack of influence.
+Relief from stigma opposed by mental weakness.
+Desired position opposed by mental weakness.
+A mutiny is threatened by physical suffering.
+Desired power opposed by lack of information.
+Desired liberty opposed by lack of facilities.
+Relief from persecution opposed by friends.
+A boycott is threatened by duty to loved ones.
+Desired fortune opposed by physical incapacity.
+Relief from pursuit opposed by mental weakness.
+A revolution is threatened by fatal ambition.
+Desired liberty opposed by duty to loved ones.
+Relief from pursuit opposed by legal procedure.
+Desired fortune opposed by lack of facilities.
+Relief from injury opposed by mental weakness.
+A strike is threatened by duty to religion.
+Desired power opposed by duty to loved ones.
+Relief from injury opposed byduty to country.
+A revolution is threatened by mental derangement.
+Desired position opposed by physical weakness.
+Relief from habit opposed by legal procedure.
+A battle of sexes is threatened by persecution.
+Relief from injury opposed by legal procedure.
+Desired position opposed by lack of information.
+Relief from injury opposed by false accusation.
+A race war is threatened by duty to religion.
+Desired position opposed by lack of influence.
+Relief from stigma opposed by false accusation.
+Desired position opposed by duty to country.
+Desired health opposed by false accusation.
+A boycott is threatened by unjust discrimination.
+Desired information opposed by lack of money.
+Desired fame opposed by lack of influence.
+Desired health opposed by duty to country.
+Desired information opposed by suspicion.
+A strike is threatened by physical suffering.
+Desired information opposed by danger to life.
+Relief from prosecution opposed by suspicion.
+Desired fame opposed by mental weakness.
+Desired accomplishment opposed by friends.
+Desired liberty opposed by physical weakness.
+Relief from oppression opposed by legal procedure.
+Desired accomplishment opposed by suspicion.
+Desired fame opposed by physical weakness.
+Desired health opposed by mental weakness.
+Desired position opposed by duty to religion.
+Relief from stigma opposed by duty to country.
+Relief from habit opposed by duty to loved ones. 
+ A revolution is threatened by physical suffering.
+Relief from stigma opposed by inclement weather.
+Desired fame opposed by duty to country.
+Desired information opposed by lack of clue.
+Desired health opposed by lack of information.
+Desired position opposed by lack of facilities.
+Relief from pursuit opposed by weakness.
+Desired fame opposed by lack of information.
+Desired health opposedby inclement weather.
+A battle of sexes is threatened by oppression.
+Desired position opposed by duty to loved ones.
+Desired fame opposed by legal procedure.
+A feud is threatened by loss of liberty.
+Desired fame opposed by false accusation.
+Desired position opposed by legal procedure.
+Desired approbation opposed by danger to life.
+Relief from sickness opposed by mental weakness.
+Desired position opposed by false accusation.
+A feud is threatened by unjust discrimination.
+Desired home or refuge opposed by rivals.
+Desired health opposed by physical weakness.
+Desired fame opposed by lack of facilities.
+A revolution is threatened by loss of liberty.
+Desired fame opposed by duty to loved ones.
+Relief from stigma opposed by lack of influence.
+A feud is threatened by danger to life or health.
+Desired information opposed by duty to country.
+A rebellion is threatened by duty to religion.
+Relief from pursuit opposed by false accusations.
+Desired approbation opposed by lack of money.
+A race war is threatened by duty to loved ones.
+Desired fame opposed by inclement weather.
+Desired information opposed by mental weakness. 
+Desired approbation opposed by enemies.
+A revolution is threatened by duty to loved ones.
+A strike is threatened by unjust accusation.
+Desired health opposed by lack of influence.
+Relief from sickness opposed by duty to religion.
+Desired information opposed by legal procedure.
+Desired health opposed by duty to loved ones.
+Relief from sickness opposed by false accusation.
+Desired approbation opposed by legal procedure.
+Relief from stigma opposed by lack of facilities.
+A revolution is threatened by physical suffering.
+Relief from habit opposed by inclement weather.
+A revolution is threatened by duty to religion.
+Relief from habit opposed by false accusation.
+Desired health opposed by lack of facilities.
+Relief from sickness opposed by duty to loved ones.
+A race war is threatened by mental derangement.
+Relief from stigma opposed by duty to religion.
+Desired health opposed by duty to religion.
+Desired approbation opposed by false accusation.
+A race war is threatened by unjust accusation.
+Relief from sickness opposed by inclement weather.
+Relief from injury opposed by duty to religion.
+A battle of sexes is threatened by superstition.
+Desired approbation opposed by duty to religion.
+Relief from pursuit opposed by duty to religion.
+Relief from prosecution opposed by distance.
+A rebellion is threatened by unjust accusation.
+Desired approbation opposed by mental weakness.
+Relief from sickness opposed by lack of influence.
+A strike is threatened by mental derangement.
+Desired approbation opposed by duty to country.
+Relief from oppression opposed by legal procedure. 
+Relief from pursuit opposed by duty to country.
+A family revolt is threatened by persecution.
+A religious uprising is threatened by poverty. 
+A religious uprising is threatened by rivals.
+A battle of sexes is threatened by danger to life or health.
+Desired home or refuge opposed by lack of facilities.
+Obliged to recover a lost person opposed by physicalweakness.
+Desired vengeance against a cheater opposed by enemies.
+Desired approbation opposed by lack of information.
+Relief from oppression opposed by duty to religion.
+Obliged to risk life in an effort to undertake a dangerous mission.
+Desired vengeance against race, nation, or clan opposed by enemies.
+Obliged to recover a lost person opposed by lack of influence.
+Desired information opposed by physical weakness.
+Relief from oppression opposed by danger to life.
+A mutiny is threatened by unjust discrimination.
+Obliged to risk liberty in an effort to apprehend a criminal.
+Desired accomplishment opposed by false accusation.
+A battle of sexes is threatened by unjust discrimination.
+Obliged to risk life in an effort to engage in battle.
+Relief from stigma opposed by lack of information.
+A mutiny is threatened by danger to life or health.
+A battle of sexes is threatened by loss of liberty.
+Obliged to risk life in an effort to apprehend a criminal.
+Desired home or refuge opposed by lack of information.
+Relief from unjust accusation opposed by duty to loved ones. 
+Obliged to risk honor in an effort to brave a storm or cataclysm.
+Desired information opposed by inclement weather.
+Relief from pursuit opposed by lack of information.
+A family revolt is threatened by fatal ambition.
+Obliged to risk friendship in an effort to prove one’s strength.
+Desired vengeance against race, nation or clan opposed by rivals.
+Relief from unjust accusation opposed by lack of facilities.
+Desired approbation opposed by physical weakness.
+Relief from sickness opposed by duty to country.
+Obliged to prevent a terrible injustice opposed by danger to life.
+A family revolt is threatened by duty to country.
+A boycott is threatened by danger to life or health.
+Obliged to risk health in an effort to brave deep waters.
+Desired vengeance against opposite sex opposed by enemies.
+Desired accomplishment opposed by lack of facilities.
+Obliged to recover a lost person opposed by enemies.
+Relief from pursuit opposed by lack of facilities.
+Desired accomplishment opposed by danger to life.
+Obliged to recover a lost person opposed by distance.
+Desired information opposed by lack of influence.
+Relief from pursuit opposed by duty to loved ones.
+A race war is threatened by danger to life or health.
+Obliged to risk health in an effort to brave an air voyage.
+Desired vengeance against a rival in love opposed by rivals.
+Desired home or refuge opposed by inclement weather.
+Relief from opprossion opposed by false accusation.
+A race war is threatened by unjust discrimination.
+Obliged to recover a lost person opposed by rivals.
+Desired home or refuge opposed by physical weakness.
+Relief from imprisonment opposed by lack of information. 
+A rebellion is threatened by danger to life or health.
+Desired vengeance against a rival in love opposed by enemies.
+Obliged to recover a lost person opposed by friends.
+A battle of sexes is threatened by duty to loved ones.
+Relief from imprisonment is opposed by lack of facilities.
+Obliged to risk health in an effort to overthrow a monarch.
+Relief from pursuit opposed by inclement weather.
+Desired information opposed by duty to loved ones.
+Relief from habit opposed by mental weakness.
+Obliged to risk honor in an effort to put down a rebellion.
+Desired approbation opposed by duty to loved ones.
+Relief from stigma opposed by physical weakness.
+Obliged to recover a lost person opposed by poverty.
+Relief from sickness opposed by lack of information.
+A religious uprising is threatened by loss of liberty.
+Desired information opposed by duty to religion.
+Relief from sickness opposed by physical weakness.
+Obliged to recover a lost person opposed by lack of information.
+Desired vengeance against race, nation, or clan opposed by poverty.
+A battle of sexes is threatened by mental derangement.
+Relief from prosecution opposed by danger to life.
+Desired accomplishment opposed by duty to religion.
+Obliged to solve a mysterious crime opposed by enemies.
+A family revolt is threatened by unjust discrimination.
+Desired information opposed by false accusation.
+Relief from sickness opposed by lack of facilities.
+A strike is threatened by unjust discrimination.
+A battle of sexes is threatened by fatal ambition.
+Obliged to risk honor in an effort to overthrow a monarch.
+Relief from oppression opposed by lack of information.
+Desired information opposed by lack of facilities. 
+Relief from imprisonment opposed by duty to country.
+A strike is threatened by duty to loved ones.
+Obliged to risk honor in an effort to engage in battle.
+A battle of sexes is threatened by unjust accusation.
+Obliged to solve a mysterious crime opposed by rivals.
+Relief from prosecution opposed by legal procedure.
+Desired approbation opposed by lack of faciilties.
+Relief from imprisonment opposed by duty to loved ones.
+Obliged to recover a lost person opposed by mental weakness.
+Desired vengeance against race, nation or clan opposed by friends.
+A religious uprising is threatened by unjust discrimination.
+Relief from unjust accusation opposed by lack of information.
+Desired approbation opposed by lack of influence.
+A rebellion is threatened by physical suffering.
+Relief from oppression opposed by physical weakness.
+Desired home or refuge opposed by duty to country.
+Obliged to solve a mysterious crime opposed by friends.
+A rebellion is threatened by unjust discrimination.
+Desired accomplishment opposed by legal procedure.
+Relief from imprisonment opposed by inclement weather.
+Obliged to recover lost valuables opposed by distance.
+A religious uprising is threatened by duty to country.
+Obliged to risk love in an effort to overthrow a monarch.
+Desired home or refuge opposed by mental weakness.
+Relief from oppression opposed by inclement weather.
+Obliged to recover a lost person opposed by suspicion.
+A strike is threatened by danger to life or health.
+A religious uprising is threatened by duty to loved ones.
+Obliged to risk honor in an effort to brave an air voyage.
+Desired accomplishment opposed by physical weakness.
+Relief from imprisonment opposed by duty to religion.
+Obliged to recover a lost person opposed by duty to country.
+A religious uprising is threatened by danger to life or health.
+Obliged to risk life in an effort to capture a vicious animal.
+Desired vengeance against race, nation or clan opposed by distance.
+Obliged to recover a lost person opposed by inclement weather.
+Desired home or refuge opposed by lack of money.
+A battle of sexes is threatened by duty to country.
+Obliged to risk life in an effort to rescue an unfortunate.
+Desired vengeance against the opposite sex opposed by danger to life.
+Obliged to solve a mysterious crime opposed by duty to religion.
+Desired vengeance against race, nation or clan opposed by physical weakness.
+Obliged to restore health or happiness to a loved one opposed by distance.
+Desired vengeance against a cheater opposed by danger to life.
+Relief from unjust accusation opposed by inclement weather.
+Desired home or refuge opposed by duty to religion.
+Relief from imprisonment opposed by danger to life.
+Desired accomplishment opposed by duty to country.
+Obliged to recover lost valuables opposed by rivals.
+A family revolt is threatened by duty to religion.
+Desired approbation opposed by inclement weather.
+Relief from imprisonment opposed by legal procedure.
+Desired home or refuge opposed by false accusation.
+A family revolt is threatened by duty to loved ones. 
+Relief from pursuit opposed by lack of influence.
+Desired home or refuge opposed by danger to life.
+Relief from oppression opposed by duty to country.
+Obliged to recover lost valuables opposed by friends.
+A revolution is threatened by unjust accusation.
+A family revolt is threatened by oppression.
+A religious uprising is threatened by enemies.
+A rebellion is threatened by mental derangement.
+Relief from stigma opposed by duty to loved ones.
+Desired accomplishment opposed by lack of money.
+Relief from oppression opposed by mental weakness.
+Relief from habit opposed by duty to religion.
+A religious uprising is threatened by oppression.
+A rebellion is threatened by duty to loved ones.
+Relief from habit opposed by duty to country.
+A family revolt is threatened by loss of liberty.
+Relief from unjust accusation opposed by distance.
+Relief from injury opposed by physical weakness.
+A battle of sexes is threatened by physical suffering.
+Obliged to recover lost valuables opposed by duty to country.
+Desired vengeance against a law breaker opposed by enemies.
+Relief from prosecution opposed by lack of information.
+Desired accomplishment opposed by duty to loved ones.
+A revolution is threatened by danger to life or health.
+Obliged to identify an unknown person opposed by suspicion.
+Desired vengeance against a law breaker opposed by friends.
+Relief from prosecution opposed by physical weakness.
+Desired accomplishment opposed by lack of influence.
+Obliged to recover lost valuables opposed by danger to life.
+Obliged to risk liberty in an effort to rescue an unfortunate.
+Relief from unjust accusation opposed by physical weakness. Desired accomplishment opposed by inclement weather. Relief from oppression opposed by lack of facilities. 
+Obliged to restore health or happiness to a loved one opposed by physical weakness.
+Obliged to prevent a catastrophe opposed by false accusation.
+Obliged to identify an unknown person opposed by duty to loved ones.
+Obliged to risk happiness in an effort to apprehend a criminal.
+Obliged to risk name in an effort to escape imprisonment.
+Obliged to risk liberty in an effort to brave mental destruction.
+Obliged to prevent a terrible injustice opposed by friends.
+Obliged to prevent a crime or injury opposed by lack of information.
+Obliged to identify an unknown person opposed by physical weakness.
+Obliged to solve a mysterious crime opposed by lack of influence.
+Obliged to recover lost information or clue opposed by duty to loved ones.
+Desired vengeance against a law breaker opposed by danger to life.
+Relief from unjust accusation opposed by mental weakness.
+Desired vengeance against an insulter opposed by poverty.
+Obliged to recover a lost person opposed by legal procedure.
+Obliged to identify an unknown person opposed by mental weakness.
+Obliged to prevent a crime or injury opposed by duty to loved ones.
+Obliged to risk friendship in an effort to destroy a government.
+Obliged to risk name in an effort to brave mental destruction.
+Obliged to risk liberty in an effort to put down a rebellion.
+Obliged to solve a mystery or phenomenon opposed by phys- ical weakness. 
+Obliged to prevent a catastrophe opposed by mental weakness.
+Obliged to identify an unknown person opposed by lack of influence.
+Desired vengeance against a rival in love opposed by physical weakness.
+Obliged to risk love in an effort to brave a terrible disease.
+Obliged to risk life in an effort to brave a maniac or insane person.
+Obliged to solve a mystery or phenomenon opposed by suspicion.
+Obliged to prevent a catastrophe opposed by legal procedure.
+Obliged to recover lost information or clue opposed by lack of facilities.
+Desired vengeance against one who has damaged good name opposed by inclement weather.
+Relief from injury opposed by duty to loved ones.
+Obliged to risk fortune in an effort to overthrow a monarch.
+Obliged to solve a mystery or phenomenon opposed by duty to loved ones.
+Desired vengeance against one who has caused loss of valuables opposed by danger to life.
+Obliged to risk position in an effort to undertake a dangerous mission.
+Obliged to prevent a crime or injury opposed by duty to religion.
+Obliged to solve a mysterious crime opposed by poverty .
+Desired vengeance against a cheater opposed by distance.
+Obliged to recover lost information or clue opposed by inclement weather.
+Desired vengeance against one who has damaged good name opposed by false accusation.
+Obliged to risk liberty in an effort to capture a vicious animal.
+Obliged to risk fortune in an effort to brave a terrible disease.
+Obliged to risk love in an effort to prove one’s strength.
+Obliged to risk liberty in an effort to destroy a government.
+Obliged to recover lost valuables opposed by duty to religion.
+Desired vengeance against a cheater opposed by friends.
+Relief from prosecution opposed by lack of facilities.
+Obliged to risk love in an effort to destroy a government.
+Obliged to prevent a catastrophe opposed by rivals.
+Desired vengeance against one who has caused injury opposed by inclement weather.
+Obliged to risk name in an effort to brave a maniac or insane person.
+Obliged to risk liberty in an effort to rescue a loved one.
+Obliged to identify an unknown person opposed by distance.
+Relief from prosecution opposed by lack of influence.
+Obliged to risk love in an effort to put down a rebellion.
+Obliged to risk fortune in an effort to expose a vicious ring.
+Obliged to risk name in an effort to brave a terrible disease.
+Obliged to risk life in an effort to brave an air voyage.
+Obliged to risk honor in an effort to capture a vicious animal.
+Obliged to risk liberty in an effort to prove one’s strength.
+Desired vengeance against a law breaker opposed by poverty.
+Relief from prosecution opposed by mental weakness.
+Desired vengeance against one who has caused loss of valuables opposed by distance.
+Relief from unjust accusation opposed by poverty.
+Obliged to risk name in an effort to rescue an unfortunate.
+Obliged to risk love in an effort to brave deep waters.
+Obliged to risk fortune in an effort to destroy a government.
+Obliged to prevent crime or injury opposed by poverty. Obliged to solve a mystery or phenomenon opposed by friends. Desired vengeance against a cheater opposed by rivals.
+Relief from persecution opposed by duty to religion. 
+ 

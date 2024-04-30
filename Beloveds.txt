@@ -1,0 +1,506 @@
+Printer
+Athlete
+Servant
+Gangster
+Surveyor
+Governor
+Merchant
+Vagabond
+Bondsman
+Inventor
+Director
+Autocrat
+Captain
+Composer
+Explorer
+Bell boy
+Smuggler
+Merchant
+Humorist
+Reporter
+Scholar
+Submarine officer
+Jazz orchestra leader
+Lighthouse tender
+Singing master
+Customs officer
+School teacher
+Administrator
+Aeronautical engineer
+Army officer
+Backwoodsman 
+Manufacturer
+Navy officer
+Automobile racer
+Photographer
+Homesteader
+Press agent
+Timekeeper
+Caretaker
+Telegrapher
+Halfbreed
+Taxi driver
+Mining engineer
+Radio singer
+Electrician
+Interpreter
+Moonshiner
+Coast guard
+Equestrian
+Missionary
+Adventurer
+Journalist
+Millwright
+Specialist
+Astrologer
+Evangelist
+Playwright
+Statesman
+Realtor
+Capitalist
+Fisherman
+Clergyman
+Blacksmith 
+Cartoonist
+Prospector
+Prosecutor
+Machinist
+Novelist
+Publisher
+Auctioneer
+Architect
+Commandant
+Cattleman
+Aristocrat
+Bank teller
+Biographer
+Performer
+Contractor
+Detective
+Cameraman
+Chauffeur
+Technician
+Attorney
+Mine owner
+Druggist
+Instructor
+Costumer
+Astronomer
+Midshipman
+Accountant
+Nobleman
+Sportsman
+Foreman
+Lumberman
+Pugilist
+Bohemian
+Auditor
+Geologist
+Promoter
+Candidate
+Violinist
+Scientist
+Constable
+Forester
+Railroad engineer
+Librarian
+Auto mechanic
+Hypnotist
+Air mail pilot
+Lifeguard
+Radio announcer
+Policeman
+Draughtsman
+Salesman
+Golf champion
+Newsboy
+Carpenter
+Executive
+Civil engineer
+Collegian
+Football hero
+Pianist
+Politician
+Exporter
+Botanist
+Anarchist
+Paymaster
+Squatter
+Ski jumper
+Comedian
+‘Treasurer
+Gondolier
+Archduke
+Factor
+Senator
+Croupier
+Settler
+Pioneer
+Philatelist
+Tutor
+Diplomat
+Caveman
+Lobbyist
+Pacifist
+Reformer
+Dietician
+Inn keeper
+Sculptor
+Invader
+Driller
+Courier
+Epicure 
+Analyst
+Outrider
+Warlord
+Physicist
+Healer
+Oarsman
+Prophet
+Wizard
+Triplet
+Cossack
+Chef
+Cavalryman
+Chaplain
+Mystic
+Mandarin
+Shipwright
+Engraver
+Pirate
+‘Trumpeter
+Harpooner
+Gigolo
+Matador
+Historian
+Powderman
+Octoroon
+Immigrant
+Dictator
+Furrier
+Ringmaster 
+Hermit
+Impresario
+Translator
+Monarch
+Statistician
+Philosopher
+Vigilante
+Troubadour
+Philanthropist
+Animal trainer
+Orientalist
+Archaeologist
+Spiritualist
+‘Trophy hunter
+Buccaneer
+Racketeer
+Messenger
+Bookmaker
+Arab
+Hijacker
+Swimmer
+Rurale
+Fencer
+Poacher
+Voyageur
+Censor
+Eskimo
+Lancer
+Faker
+Apache
+Sheik
+Bibliophile 
+Cheer leader
+Grocer
+Lineman
+Conductor
+Shepherd
+Prince
+Ambassador
+Surgeon
+Communist
+Dentist
+Peon
+Juror
+Yogi
+Cadet
+Friar
+Peasant
+Juggler
+Colonist
+Palmist
+Legionnaire
+Watchman
+Man-about-town
+Vaudeville artist
+Research chemist
+Airplane mechanician
+Sports editor
+‘Taxidermist
+‘Toreador
+Evolutionist
+Polo player
+Member of Parliament
+Mounted police 
+Landscape gardener
+Bootlegger
+College president
+Symphony orchestra leader
+Captain of Industry
+News photographer
+Secret Service operative
+Motion picture producer
+Graphologist
+Football coach
+Stage director
+Tennis champion
+Pipe organist
+Courtier
+Acoustician
+Seem Weacon
+Lapidarist
+Dragoon
+Infantryman
+Minstrel
+Globe trotter
+Wrangler
+Balloonist
+Landlord
+Revolutionist
+Recorder
+Archbishop
+Canoeist
+Metallurgist
+Motion picture director
+Beach comber
+Interior decorator
+Egyptologist
+Dramatic critic
+Harbor master
+Drawbridge tender
+Toxicologist
+Curio collector
+Psychoanalyst
+Tight rope walker
+Magnate
+Glass blower
+Appraiser
+Artilleryman
+Art dealer
+Horticulturist
+Radio operator
+Meteorologist
+Baseball pitcher
+Iconoclast
+U.S. Marine officer
+Navigator
+Jiu-jitsu expert
+Quartermaster
+Metaphysician
+Countess
+Journalist
+Modiste
+Aristocrat
+Musician
+Playwright
+Athlete
+Manicurist
+Waitress
+Saleswoman
+Manikin
+Movie star
+Invalid
+Divorcee
+Duchess
+Governess
+Peasant
+Cashier
+Housemaid
+Widow
+Secretary
+Heiress
+Noblewoman
+Actress
+Chorus girl
+Artist
+Chambermaid
+Dancer
+Sportswoman
+Model
+Evangelist
+Nurse
+Society belle
+Co-ed
+Adventuress
+Milliner
+School teacher
+Poetess
+Stenographer
+Telephone operator
+Diva
+Waif
+Spy
+Siren
+Twin
+Ayah
+Agent
+Nomad
+Queen
+Guide
+Diver
+Beggar
+Critic
+Creole
+Regent
+Juror
+Duenna
+‘Trader
+Tomboy
+Weaver
+Triplet
+Convict
+Attorney
+Houri
+Cowgirl
+Broker
+Geisha
+Mystic
+Censor
+Choir leader
+Servant
+Cocotte
+Zoologist
+Acrobat
+Palmist
+Florist
+Fencer
+Canvasser
+Taxi dancer
+Editor
+Aviatrix
+Gang moll
+Debutante
+Registrar
+Scenarist
+Princess
+Eurasian
+Costumer
+Lion tamer
+Odalisque
+Seamstress
+Hypnotist
+Senorita
+Harpist
+Reporter
+Designer 
+Gambler
+Bookkeeper
+Mind reader
+Milk maid
+Detective
+Laundress
+Nautch girl
+Satirist
+Recorder
+Composer
+Explorer
+Bayadeer
+Magdalen
+Huntress
+Reformer
+Forewoman
+Pacifist
+Violinist
+Hula girl
+Bohemian
+Botanist
+Octoroon
+Pianist
+Dowager
+Confectioner
+Girl Scout
+Immigrant
+Tourist
+Comedienne
+Dietician
+Radio singer
+College Dean
+Shop keeper
+Clairvoyant
+Bandit queen 
+Communist
+Cave woman
+Translator
+Physician
+Huckstress
+Statistician
+Anarchist
+Gang leader
+Innkeeper
+Occultist —
+Novelist
+Telegrapher
+Appraiser
+Astrologer
+Biographer
+Farmerette
+Policewoman
+Mountaineer
+Press agent
+Court reporter
+Society editor
+Chauffeuse
+Linguist
+Lecturer
+Courtezan
+Biologist
+Charlatan
+Political leader
+Tennis champion
+Interior decorator
+Golf champion
+Circus freak
+Salvation Army lass
+Beauty operator
+Movie “‘Extra’’ girl 
+Linotype operator
+Factory worker
+Trapeze performer
+Historical character
+Cotton picker
+Ventriloquist
+Hotel hostess
+Elevator operator
+Horticulturist
+Equestrienne
+Metaphysician
+‘Tea room owner
+Beauty prize winner
+Snake charmer
+Secret Service operative
+Stage director
+Night club hostess
+Ship stewardess
+Marathon dancer
+Criminal decoy 
+Cabaret entertainer
+Booking agent
+Factory worker
+Orchestra leader
+Motion picture director
+Settlement worker
+Social secretary
+Blind girl
+Club woman
+Ranch owner
+Manufacturer
+Notary public
+Antiques collector
+Business executive
+Music teacher
+Pipe organist
+Premiere danseuse
+Suffragette
+Radio entertainer
+Psychoanalyst
