@@ -46,7 +46,8 @@ class StoryGenerator:
     def retrieve_AI_story(self):
         prompt = ""
         options = [0,1,2,3,4,5,6,7,8]
-        story_num = random.randint(0,8)
+        #story_num = random.randint(0,8)
+        story_num = 2
 
         file_paths = ["Locations.txt",
               "Characters.txt",
@@ -153,21 +154,3 @@ class StoryGenerator:
                 continue
 
         return messages
-    
-story_generator = StoryGenerator()
-story_generator.get_plot_points()
-story, plot_num = story_generator.retrieve_AI_story()
-
-f = 17
-counter = 1
-textt = ""
-print(plot_num, "\n")
-
-
-for i in story:
-  if 103 % counter == 0:
-    print(textt)
-    textt = ""
-    counter = 1
-  counter += 1
-  textt += i
