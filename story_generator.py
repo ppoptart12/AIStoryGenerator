@@ -38,7 +38,7 @@ class StoryGenerator:
         self.openai_client = OpenAI(api_key=OPENAI_KEY)
         self.plot_point_assistant = self.openai_client.beta.assistants.retrieve(PLOT_POINT_STORY_GENERATORID)
         self.story_assistant = self.openai_client.beta.assistants.retrieve(VANILLA_STORY_GENERATORID)
-    
+
     def get_story(self):
         self._get_plot_points()
         return(self.retrieve_AI_story)
@@ -48,15 +48,26 @@ class StoryGenerator:
         options = [0,1,2,3,4,5,6,7,8]
         story_num = random.randint(0,8)
 
+        file_paths = ["Locations.txt",
+              "Characters.txt",
+              "Beloveds.txt",
+              "Problems.txt",
+              "LoveObstacles.txt",
+              "Complications.txt",
+              "Predicaments.txt",
+              "Crisis.txt",
+              "Climax.txt"]
+
         if story_num == 0:
-            return self.__clean_output(self.__retrieve_message_from_openai(user_prompt=prompt, is_plot_point_assistant=False))
-        
-        else: 
+            return self.__clean_output(self.__retrieve_message_from_openai(user_prompt=prompt, is_plot_point_assistant=False), story_num)
+
+        else:
             for i in range(story_num):
                 rand_story = random.choice(options)
                 options.remove(rand_story)
-                prompt += self.plot_points[rand_story] + "." 
+                prompt += file_paths[rand_story].removesuffix(".txt") + ": " + self.plot_points[rand_story] + "."
                 print(self.plot_points[rand_story])
+            print(prompt)
             return self.__clean_output(self.__retrieve_message_from_openai(user_prompt=prompt, is_plot_point_assistant=True)), story_num
 
 
@@ -69,7 +80,7 @@ class StoryGenerator:
         return final_message
 
 
-    def _get_plot_points(self):
+    def get_plot_points(self):
         file_paths = ["Locations.txt",
                       "Characters.txt",
                       "Beloveds.txt",
@@ -100,7 +111,7 @@ class StoryGenerator:
             self.plot_points[count] = categories[current_array][plot_num]
 
             count += 1
-        
+
         return self.plot_points
 
     def __retrieve_message_from_openai(self, user_prompt: str, is_plot_point_assistant: bool):
@@ -140,7 +151,5 @@ class StoryGenerator:
             else:
                 print("Run is in progress - Please Wait")
                 continue
-        
-        return messages
-    
 
+        return messages
