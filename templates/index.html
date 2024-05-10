@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Random Story Generator</h1>
+    </header>
+    <button id="actionButton">Generate Story</button>
+    <div id="resultBox" style="display: none;">
+        <p id="result"></p>
+    </div>
+    <div id="additionalBox" style="display: none;">
+        <p id="additional"></p>
+        <p id="additionalText" rows="3" readonly="readonly">NUMBER OF PLOT POINTS</p>
+    </div>
+    <div id="loading" style="display: none;">
+        <div class="spinner"></div>
+    </div>
+
+    <script>
+        const button = document.getElementById('actionButton');
+        const resultBox = document.getElementById('resultBox');
+        const additionalBox = document.getElementById('additionalBox');
+        const result = document.getElementById('result');
+        const additional = document.getElementById('additional');
+        const loading = document.getElementById('loading');
+        const additionalText = document.getElementById('additionalText');
+
+        button.addEventListener('click', function() {
+            loading.style.display = 'flex';
+            fetch('/run_function', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    loading.style.display = 'none';
+                    result.textContent = data.main_result;
+                    additional.textContent = data.additional_info;
+                    resultBox.style.display = 'block';
+                    additionalBox.style.display = 'block';
+                    button.style.marginTop = '20px';  // Adjust button position instead of hiding
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    loading.style.display = 'none';
+                });
+        });
+    </script>
+</body>
+</html>
