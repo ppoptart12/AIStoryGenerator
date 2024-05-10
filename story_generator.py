@@ -29,10 +29,10 @@ class StoryGenerator:
     def __init__(self):
         #NOTE: You must use my personal API key to utilize our fine tuned GPT MODELS
 
-        OPENAI_KEY = "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"
+        OPENAI_KEY = "####"
 
-        PLOT_POINT_STORY_GENERATORID = "asst_Q9QWPefVFjzLUJtVzd8zxEW5" #This assistant takes plot points from plot genie in its story generator
-        VANILLA_STORY_GENERATORID = "asst_o4BVrY2Bfpmp6A0oLPHG1tlO" #This assistant creates its own story from scratch
+        PLOT_POINT_STORY_GENERATORID = "####" #This assistant takes plot points from plot genie in its story generator
+        VANILLA_STORY_GENERATORID = "####" #This assistant creates its own story from scratch
 
 
         self.openai_client = OpenAI(api_key=OPENAI_KEY)
